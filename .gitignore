@@ -1,0 +1,33 @@
+# Environment and secrets
+.env
+*.pem
+
+# Build outputs
+/bin/
+/dist/
+/out/
+/tmp/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/todobot
+
+# Go
+vendor/
+*.test
+*.out
+coverage.*
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Python (optional probe)
+__pycache__/
+.venv/
+venv/
+*.pyc

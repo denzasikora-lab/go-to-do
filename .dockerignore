@@ -1,0 +1,6 @@
+# Exclude VCS metadata, secrets, and non-Go assets from the image build context.
+.git
+bot.py
+*.md
+.env
+/tmp
