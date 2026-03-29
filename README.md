@@ -1,5 +1,7 @@
 # go-to-do
 
+[![Go](https://github.com/denzasikora-lab/go-to-do/actions/workflows/go.yml/badge.svg)](https://github.com/denzasikora-lab/go-to-do/actions/workflows/go.yml)
+
 Telegram **to-do bot** written in Go: Postgres-backed tasks, **FSM** conversational flows, and **inline keyboards** with semantic button colors ([Telegram Bot API `style` field](https://core.telegram.org/bots/api#inlinekeyboardbutton)—requires recent clients).
 
 ## Features
